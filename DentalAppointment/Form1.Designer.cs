@@ -121,9 +121,9 @@
             // 
             // button1
             // 
-            button1.Location = new Point(271, 363);
+            button1.Location = new Point(272, 373);
             button1.Name = "button1";
-            button1.Size = new Size(110, 65);
+            button1.Size = new Size(120, 65);
             button1.TabIndex = 10;
             button1.Text = "Confirm Appointment";
             button1.UseVisualStyleBackColor = true;
